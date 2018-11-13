@@ -1,0 +1,2 @@
+# dcmd
+dcmd setup
